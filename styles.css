@@ -1,56 +1,5 @@
-/*  your css code here. If applicable */
-/* Body Background */
 body {
   background-color: rgb(204, 204, 204);
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-}
-
-/* Headings Style */
-h1, h2 {
-  text-align: center;
-  margin-top: 20px;
-}
-
-/* Playlist Styling */
-.playlist ul {
-	border-radius: 1px solid blackk
-  list-style-type: none;
-  padding: 0;
-  text-align: start;
-}
-
-.playlist li {
-  margin: 10px 0;
-}
-
-.playlist a {
-  text-decoration-line: none;
-  color: #000;
-  font-size: 18px;
-  background-color: #fff;
-  padding: 8px 15px;
-  border-radius: 5px;
-  display: inline-block;
-  transition: background-color 0.3s;
-}
-
-.playlist a:hover {
-  background-color: #f1f1f1;
-}
-
-/* Player Container Styling */
-.player_one, .player_two {
-  background-color: rgb(255, 255, 255);
-  padding: 20px;
-  border-radius: 10px;
-  margin: 20px auto;
-  max-width: 600px;
-  text-align: center;
-}
-
-video, audio {
-  width: 100%;
-  border-radius: 8px;
 }
